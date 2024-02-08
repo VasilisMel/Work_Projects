@@ -1,6 +1,6 @@
 # Proffesional projects
 <p align="center">
-  <img src="https://github.com/VasilisMel/Work_Projects/blob/media/DEH_gif.gif" alt="animated" />
+  <img src="https://github.com/VasilisMel/Work_Projects/blob/media/DEH_gif.gif" width="100" height="100" alt="animated" />
 </p>
 <h3 align="center"> In this repository, an overview of proffesional projects is provided along with their summary respectively.
 </h3>
