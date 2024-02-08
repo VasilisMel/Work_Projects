@@ -16,12 +16,9 @@ This consumer-based application can grant the consumer any meaningful informatio
 <p
 Apart from the device with review availability, in the consumption plan, the consumption of the non-consumption review-available devices is forcedly added in the chart. There is also a last layer of information that refers to the depreciation analysis of the candidate devices and the exact time it needs to completely depreciate them. Additional charts were added that compare the default consumption behavior with the rest consumption plans in consumption behavior review and in energy bill.
 </p>
-
-
+  
+<p align="center"
 The project’s [video sample](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv1tc1eXuO0C7aCEuXVDF9jAvA)
-[<img src="https://github.com/VasilisMel/Work_Projects/assets/118008901/2d823d1e-7982-4b1d-9497-13984ae8a076" width="830" height="540" align="center"/>](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv1tc1eXuO0C7aCEuXVDF9jAvA "Video also here")
-
-
-The project’s [video sample](https://mega.nz/file/9C4SSSQT#zRs8WM7OcEgExQgFhNqUTbCa1JVEs0wlvsP9Um2B7pk)
-[< img src="https://user-images.githubusercontent.com/118008901/201536035-69867690-2b66-4511-9c94-f054415aa408.png"/>](https://mega.nz/file/8KRkWRoY#kp_lmPieutAV5F6-8UN_1E6gh5nxuFIDWf_15sGENls "Video also here")
+[<img src="https://github.com/VasilisMel/Work_Projects/assets/118008901/2d823d1e-7982-4b1d-9497-13984ae8a076" width="830" height="540" />](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv1tc1eXuO0C7aCEuXVDF9jAvA "Video also here")
+</p>
 
