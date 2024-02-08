@@ -21,6 +21,6 @@ The project’s [video sample](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv
 
 
 <p align="center">
-  <img src="https://github.com/VasilisMel/Work_Projects/blob/media/Evident_gif.gif" width="100" height="100" alt="animated" />
+  <img src="https://github.com/VasilisMel/Work_Projects/blob/media/Evident_gif.gif" alt="animated" />
 </p>
 
