@@ -20,6 +20,6 @@ Apart from the device with review availability, in the consumption plan, the con
   
 
 The project’s [video sample](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv1tc1eXuO0C7aCEuXVDF9jAvA)
-[<img src="https://github.com/VasilisMel/Work_Projects/assets/118008901/2d823d1e-7982-4b1d-9497-13984ae8a076" width="830" height="540" />](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv1tc1eXuO0C7aCEuXVDF9jAvA "Video also here")
+[<img src="https://github.com/VasilisMel/Work_Projects/assets/118008901/2d823d1e-7982-4b1d-9497-13984ae8a076"  />](https://mega.nz/file/YLIw3CAA#Jb9T6s5lLF9N75X0iNv1tc1eXuO0C7aCEuXVDF9jAvA "Video also here")
 
 
