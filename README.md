@@ -7,7 +7,7 @@
 
 ## EV4EU O-V2X-MP platform (GR Demo)
 
-The Open Vehicle-to-Everything Management Platform (O-V2X-MP) is developed as part of the European EV4EU project, serving as a comprehensive solution for EV charging infrastructure management with grid integration capabilities. Led by PPC in the Greek demonstration, this platform bridges electric vehicles, charging stations, and distribution systems.
+The Open Vehicle-to-Everything Management Platform (O-V2X-MP) is developed as part of the European [EV4EU](https://ev4eu.eu/portfolio-item/greece/) project, serving as a comprehensive solution for EV charging infrastructure management with grid integration capabilities. Led by PPC in the Greek demonstration, this platform bridges electric vehicles, charging stations, and distribution systems.
 
 ### Architecture & Technologies
 
