@@ -35,6 +35,21 @@ The Open Vehicle-to-Everything Management Platform (O-V2X-MP) is developed as pa
   - Dynamic capacity adjustment
   - Implementation of demand response services
 
+### Backend Development Highlights
+
+My primary contribution was developing the BUC 5 implementation with an advanced fair load distribution system that processes real-time DSO signals, significantly more complex than traditional fixed-interval systems. The implementation consists of three key components:
+
+1. **Dynamic Capacity Distribution** - Ensures fair capacity allocation across active charging sessions and reservations by applying customized charging profiles to each connector while maintaining a 24-hour capacity schedule.
+
+2. **Adaptive User Behavior Handling** - Addresses unpredictable EV user actions (early termination, extended stays) through real-time connector status monitoring, maintaining fairness despite changing session conditions.
+
+3. **Continuous Synchronization** - Implements periodic verification of charging profiles and DSO signal timeslots, automatically reapplying BUC 5 protocols when signal application is incomplete.
+
+BUC 4 implementation follows a more straightforward approach, requiring only direct application to connectors without the complex management layers of BUC 5.
+
+<img src="https://github.com/VasilisMel/Work_Projects/blob/media/Capacity_Distribution_OCPP_1_6.png" alt="Capacity Distribution Flow Diagram" />
+
+
 ### Hardware Integration
 
 The platform has been successfully tested with Autel MaxiCharger AC Wallbox charging stations with OCPP 1.6J protocol support. Future developments include OCPP 2.0.1 and 2.1 integration for bi-directional charging capabilities.
